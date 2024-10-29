@@ -1,0 +1,12 @@
+---
+layout:     post
+title:      "纪念第一次真正使用github"
+date:       2024-10-29 09:52 PM
+author:     "Wayne"
+header-img: "img/post-bg-rwd.jpg"
+tags:
+    - web
+    - github
+---
+
+测试一下第一次使用markdown语法发布内容，距离第一次注册github已有四年，而今天它真正得活了过来！
